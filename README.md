@@ -2,6 +2,14 @@
 Have applied Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbor, LightGBM
 
 
+About This Dataset
+
+Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
+Heart failure is a common event caused by CVDs and this dataset contains 12 features that can be used to predict mortality by heart failure.
+
+Most cardiovascular diseases can be prevented by addressing behavioural risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.
+
+People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 
 Logistic Regression
@@ -27,6 +35,6 @@ LightGBM
 
 Light GBM is a fast, distributed, high-performance gradient boosting framework based on decision tree algorithm, used for ranking, classification and many other machine learning tasks.
 
-
+Final Comparison
 
 ![Comparision](https://user-images.githubusercontent.com/46940879/99182743-bd217f00-272e-11eb-8786-c6f237c7b19a.png)
