@@ -29,3 +29,4 @@ Light GBM is a fast, distributed, high-performance gradient boosting framework b
 
 
 
+![Comparision](https://user-images.githubusercontent.com/46940879/99182743-bd217f00-272e-11eb-8786-c6f237c7b19a.png)
